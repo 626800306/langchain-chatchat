@@ -1,0 +1,30 @@
+2026-06-24 18:55:32,501 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:55:32,503 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.378751 seconds
+2026-06-24 18:56:01,776 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:01,781 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.978459 seconds
+2026-06-24 18:56:22,345 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:38,597 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:38,599 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.431860 seconds
+2026-06-24 18:56:42,497 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:42,499 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.884961 seconds
+2026-06-24 18:56:46,076 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:49,070 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:49,073 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.463329 seconds
+2026-06-24 18:56:58,777 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:58,781 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.852520 seconds
+2026-06-24 18:57:02,035 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:08:33,651 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:08:33,662 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.444825 seconds
+2026-06-24 19:08:46,071 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:08:46,073 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.882123 seconds
+2026-06-24 19:08:55,954 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:08:58,311 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:08:58,314 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.443911 seconds
+2026-06-24 19:09:00,296 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:09:00,298 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.788772 seconds
+2026-06-24 19:09:02,606 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:09:05,360 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:09:05,362 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.386751 seconds
+2026-06-24 19:09:07,670 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:09:07,673 openai._base_client 1788 INFO     Retrying request to /chat/completions in 0.770574 seconds
+2026-06-24 19:09:10,320 httpx        1788 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"

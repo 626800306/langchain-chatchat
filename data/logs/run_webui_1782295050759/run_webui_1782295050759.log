@@ -1,0 +1,6 @@
+2026-06-24 17:57:34,985 httpx        5540 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 17:57:44,261 httpx        5540 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:01:07,566 httpx        5540 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:01:15,054 httpx        5540 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:01:18,522 httpx        5540 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:01:19,504 httpx        5540 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 200 OK"

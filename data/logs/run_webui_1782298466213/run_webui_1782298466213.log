@@ -1,0 +1,26 @@
+2026-06-24 18:54:31,280 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:54:31,293 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:54:31,308 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:54:38,611 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:54:40,946 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:54:47,241 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:54:53,845 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:56:17,214 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:56:22,364 httpx        32764 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:22,400 openai._base_client 32764 INFO     Retrying request to /chat/completions in 0.466755 seconds
+2026-06-24 18:56:31,930 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/knowledge_base/list_knowledge_bases "HTTP/1.1 200 OK"
+2026-06-24 18:56:32,351 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/knowledge_base/list_knowledge_bases "HTTP/1.1 200 OK"
+2026-06-24 18:56:35,367 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:56:35,813 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:56:46,080 httpx        32764 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:56:46,085 openai._base_client 32764 INFO     Retrying request to /chat/completions in 0.763009 seconds
+2026-06-24 18:57:02,041 httpx        32764 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:07:47,658 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 19:07:50,992 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 19:07:56,245 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 19:07:59,293 httpx        32764 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 19:08:55,979 httpx        32764 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:08:55,990 openai._base_client 32764 INFO     Retrying request to /chat/completions in 0.475122 seconds
+2026-06-24 19:09:02,609 httpx        32764 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 19:09:02,615 openai._base_client 32764 INFO     Retrying request to /chat/completions in 0.859484 seconds
+2026-06-24 19:09:10,324 httpx        32764 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"

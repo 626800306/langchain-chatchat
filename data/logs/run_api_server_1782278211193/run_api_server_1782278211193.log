@@ -1,0 +1,9 @@
+2026-06-24 13:17:39,601 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-06-24 13:17:39,603 openai._base_client 29840 INFO     Retrying request to /chat/completions in 30.000000 seconds
+2026-06-24 13:18:09,637 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-06-24 13:18:09,637 openai._base_client 29840 INFO     Retrying request to /chat/completions in 30.000000 seconds
+2026-06-24 13:18:39,664 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2026-06-24 13:20:47,107 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-24 13:26:00,863 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-24 14:52:05,199 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-06-24 14:52:58,302 httpx        29840 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 404 Not Found"

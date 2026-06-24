@@ -1,0 +1,34 @@
+2026-06-24 18:07:19,633 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:07:19,643 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:07:22,155 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:07:25,822 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:07:27,912 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:07:32,657 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:07:34,919 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:08:11,914 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:08:13,782 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:08:18,476 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:08:29,221 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:29,306 openai._base_client 1296 INFO     Retrying request to /chat/completions in 0.438238 seconds
+2026-06-24 18:08:32,867 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:32,871 openai._base_client 1296 INFO     Retrying request to /chat/completions in 0.871636 seconds
+2026-06-24 18:08:36,552 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:25:51,292 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:25:56,334 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:26:08,883 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:26:23,771 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:26:25,675 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:25,681 openai._base_client 1296 INFO     Retrying request to /chat/completions in 0.414880 seconds
+2026-06-24 18:26:27,620 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:27,623 openai._base_client 1296 INFO     Retrying request to /chat/completions in 0.822995 seconds
+2026-06-24 18:26:30,046 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:41:25,854 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:41:38,135 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:41:46,721 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:41:50,016 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2026-06-24 18:42:24,748 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:24,786 openai._base_client 1296 INFO     Retrying request to /chat/completions in 0.390186 seconds
+2026-06-24 18:42:43,795 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:43,803 openai._base_client 1296 INFO     Retrying request to /chat/completions in 0.893256 seconds
+2026-06-24 18:42:58,844 httpx        1296 INFO     HTTP Request: POST http://127.0.0.1:7861/chat/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:53:58,942 httpx        1296 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"

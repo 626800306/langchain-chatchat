@@ -1,0 +1,45 @@
+2026-06-24 18:08:25,525 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:25,526 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.460269 seconds
+2026-06-24 18:08:27,496 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:27,498 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.910386 seconds
+2026-06-24 18:08:29,216 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:30,481 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:30,482 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.489509 seconds
+2026-06-24 18:08:31,577 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:31,579 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.874534 seconds
+2026-06-24 18:08:32,865 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:34,284 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:34,285 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.498570 seconds
+2026-06-24 18:08:35,212 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:08:35,213 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.891264 seconds
+2026-06-24 18:08:36,549 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:24,365 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:24,368 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.419744 seconds
+2026-06-24 18:26:24,822 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:24,824 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.797600 seconds
+2026-06-24 18:26:25,670 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:26,278 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:26,280 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.405318 seconds
+2026-06-24 18:26:26,746 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:26,748 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.837511 seconds
+2026-06-24 18:26:27,617 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:28,586 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:28,587 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.384520 seconds
+2026-06-24 18:26:29,009 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:26:29,010 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.987668 seconds
+2026-06-24 18:26:30,043 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:10,129 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:10,138 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.431111 seconds
+2026-06-24 18:42:18,966 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:18,967 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.997890 seconds
+2026-06-24 18:42:24,728 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:27,228 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:27,230 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.392070 seconds
+2026-06-24 18:42:31,230 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:31,233 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.784153 seconds
+2026-06-24 18:42:43,789 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:53,810 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:53,812 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.480422 seconds
+2026-06-24 18:42:56,112 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2026-06-24 18:42:56,113 openai._base_client 24620 INFO     Retrying request to /chat/completions in 0.752461 seconds
+2026-06-24 18:42:58,839 httpx        24620 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 500 Internal Server Error"

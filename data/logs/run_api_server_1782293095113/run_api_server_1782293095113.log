@@ -1,0 +1,3 @@
+2026-06-24 17:25:33,078 httpx        11196 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-06-24 17:26:31,929 httpx        11196 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-24 17:28:43,947 httpx        11196 INFO     HTTP Request: POST http://127.0.0.1:9997/v1/chat/completions "HTTP/1.1 200 OK"
